@@ -1,0 +1,25 @@
+		WhqDatabase
+
+作者：王洪岐
+
+本项目为一个C#实现的列式数据库，欢迎大家提出指正意见。
+项目中包含对Kernel完整的测试。
+
+项目列表：
+Kernel		内核
+Test		对内核的测试
+Service		可视的Web服务
+
+
+
+
+
+Author: Wang Hongqi
+
+The project for a C # implementation of database columns, raised corrections views.
+Kernel integrity test included in the project.
+
+List of items:
+Kernel 		kernel
+Test 		the kernel test
+Service 	visual Web services
