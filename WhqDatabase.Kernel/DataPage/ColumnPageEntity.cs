@@ -1,11 +1,11 @@
-/*!
+/*
  * WhqDatabase
  * http://longtianyu1.blog.163.com/
  * 
- * Copyright 2012,Wang Hongqi(王洪岐)
+ * Copyright 2012,Wang Hongqi(王洪岐,longtianyu1@163.com)
  * Dual licensed under the MIT or GPL Version 2 licenses.
  *
- * Author: Wang Hongqi(王洪岐)
+ * Author: Wang Hongqi(王洪岐,longtianyu1@163.com)
  * Date: 2012-02-04
  */
 using System;
