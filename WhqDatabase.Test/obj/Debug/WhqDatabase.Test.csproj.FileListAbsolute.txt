@@ -1,0 +1,7 @@
+E:\Code\WhqDatabase\WhqDatabase.Test\bin\Debug\WhqDatabase.Test.dll
+E:\Code\WhqDatabase\WhqDatabase.Test\bin\Debug\WhqDatabase.Test.pdb
+E:\Code\WhqDatabase\WhqDatabase.Test\bin\Debug\WhqDatabase.Kernel.dll
+E:\Code\WhqDatabase\WhqDatabase.Test\bin\Debug\WhqDatabase.Kernel.pdb
+E:\Code\WhqDatabase\WhqDatabase.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\WhqDatabase\WhqDatabase.Test\obj\Debug\WhqDatabase.Test.dll
+E:\Code\WhqDatabase\WhqDatabase.Test\obj\Debug\WhqDatabase.Test.pdb

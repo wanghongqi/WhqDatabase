@@ -1,0 +1,5 @@
+E:\Code\WhqDatabase\WhqDatabase\bin\Debug\WhqDatabase.dll
+E:\Code\WhqDatabase\WhqDatabase\bin\Debug\WhqDatabase.pdb
+E:\Code\WhqDatabase\WhqDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\WhqDatabase\WhqDatabase\obj\Debug\WhqDatabase.dll
+E:\Code\WhqDatabase\WhqDatabase\obj\Debug\WhqDatabase.pdb
