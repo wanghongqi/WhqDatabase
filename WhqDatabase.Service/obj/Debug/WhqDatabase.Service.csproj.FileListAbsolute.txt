@@ -1,7 +1,0 @@
-E:\Code\WhqDatabase\WhqDatabase.Service\bin\WhqDatabase.Service.dll
-E:\Code\WhqDatabase\WhqDatabase.Service\bin\WhqDatabase.Service.pdb
-E:\Code\WhqDatabase\WhqDatabase.Service\obj\Debug\ResolveAssemblyReference.cache
-E:\Code\WhqDatabase\WhqDatabase.Service\obj\Debug\WhqDatabase.Service.dll
-E:\Code\WhqDatabase\WhqDatabase.Service\obj\Debug\WhqDatabase.Service.pdb
-E:\Code\WhqDatabase\WhqDatabase.Service\bin\WhqDatabase.Kernel.dll
-E:\Code\WhqDatabase\WhqDatabase.Service\bin\WhqDatabase.Kernel.pdb
